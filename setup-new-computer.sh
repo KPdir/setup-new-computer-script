@@ -4,7 +4,7 @@ VERSION="v2.1.0"
 #===============================================================================
 # title           setup-new-computer.sh
 # author          jkesler@vendasta.com
-#                 https://github.com/joelkesler
+#                 https://github.com/joelkesler      
 #===============================================================================
 #   A shell script to help with the quick setup and installation of tools and 
 #   applications for new developers at Vendasta.
@@ -23,7 +23,7 @@ VERSION="v2.1.0"
 #      Use the email and name you use for Github
 #
 #   5. Follow the Post Installation Instructions in the Readme:
-README="https://github.com/vendasta/setup-new-computer-script#post-installation-instructions"
+README="https://github.com/KPdir/setup-new-computer-script#post-installation-instructions"
 #  
 #===============================================================================
 
@@ -73,14 +73,13 @@ printStep() {
 
 printLogo() {
 cat << "EOT"
-                      _           _        
-                     | |         | |       
- __   _____ _ __   __| | __ _ ___| |_ __ _ 
- \ \ / / _ \ '_ \ / _` |/ _` / __| __/ _` |
-  \ V /  __/ | | | (_| | (_| \__ \ || (_| |
-   \_/ \___|_| |_|\__,_|\__,_|___/\__\__,_|
- ------------------------------------------
-    Q U I C K   S E T U P   S C R I P T
+
+  _  __     ___  
+ | |/ /    | _ \ 
+ | ' <     |  _/ 
+ |_|\_\   _|_|_  
+_|"""""|_| """ | 
+"`-0-0-'"`-0-0-' 
 
 
     NOTE:
